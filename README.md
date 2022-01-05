@@ -16,7 +16,8 @@
 <hr style="margin: 0 0 20px 0; height: 0.5px; background-color:grey"/>
 <ol>
   <li>Atur konfigurasi database di file .env sesuai dengan konfigurasi database yang dimiliki seperti gambar dibawah ini <br/>
-  <img src="[/images/cara_jalankan/1.png](https://github.com/myndra1805/talkme/blob/master/public/images/cara_jalankan/1.png)" width="100%"/>
+  <img src="https://github.com/myndra1805/talkme/blob/master/public/images/cara_jalankan/1.png?raw=true" style="margin-top: 10px" width="200"/>
   </li>
+  <li>Jalankan perintah `php artisan serve`</li>
 </ol>
 
