@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">TALK ME</h1>
+<h1 align="center">TALK ME</h1>
 
 ## Tentang Talk Me
 
