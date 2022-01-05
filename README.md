@@ -24,7 +24,7 @@ Berikut ini fitur yang terdapat pada aplikasi ini:
 
 
 ## Cara Menjalankan
-1. Atur konfigurasi database di file .env sesuai dengan konfigurasi database yang dimiliki seperti gambar dibawah ini.
+1. Atur konfigurasi database di file .env sesuai dengan konfigurasi database yang dimiliki seperti gambar dibawah ini. <br/>
 ![Konfigurasi database](https://github.com/myndra1805/talkme/blob/master/public/images/cara_jalankan/1.png?raw=true)
 1. Jalankan perintah `php artisan migrate` di terminal atau CMD
 2. Jalnakan kembali perintah `php artisan serve`
