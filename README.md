@@ -28,7 +28,7 @@ Berikut ini fitur yang terdapat pada aplikasi ini:
 ![Konfigurasi database](https://github.com/myndra1805/talkme/blob/master/public/images/cara_jalankan/1.png?raw=true)
 1. Jalankan perintah `php artisan migrate` di terminal atau CMD
 2. Jalnakan kembali perintah `php artisan serve`
-3. Website akan berjalan di server http://localhost:800
+3. Website akan berjalan di server http://localhost:8000
 
 
 ## Screnshoot Tampilan Aplikasi
